@@ -1,0 +1,215 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Andrea\GIT\BlinkBoard-micro-hardware-design\BlinkBoard_micro.PcbDoc
+Date     : 7/30/2021
+Time     : 5:22:24 PM
+
+Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (IsRegion),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.102mm) (Max=0.305mm) (Preferred=0.102mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.762mm) (Preferred=0.305mm) (InNet ('+*') or InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=0.3mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.6mm) (MaxWidth=0.6mm) (PreferedWidth=0.6mm) (All)
+   Violation between Routing Via Style: Via (157.725mm,217.721mm) from Top to Bottom Actual Size : 0.5mm Actual Hole Size : 0.2mm
+   Violation between Routing Via Style: Via (157.725mm,218.821mm) from Top to Bottom Actual Size : 0.5mm Actual Hole Size : 0.2mm
+Rule Violations :2
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.381mm) (Max=0.381mm) (Prefered=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=3.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.305mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.003mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room Row15 (Bounding Region = (211.607mm, 83.972mm, 259.232mm, 86.512mm) (InComponentClass('Row15'))
+Rule Violations :0
+
+Processing Rule : Room Row16 (Bounding Region = (211.607mm, 86.512mm, 259.232mm, 89.052mm) (InComponentClass('Row16'))
+Rule Violations :0
+
+Processing Rule : Room Row13 (Bounding Region = (211.607mm, 78.892mm, 259.232mm, 81.432mm) (InComponentClass('Row13'))
+Rule Violations :0
+
+Processing Rule : Room Row14 (Bounding Region = (211.607mm, 81.432mm, 259.232mm, 83.972mm) (InComponentClass('Row14'))
+Rule Violations :0
+
+Processing Rule : Room Row19 (Bounding Region = (211.607mm, 94.132mm, 259.232mm, 96.672mm) (InComponentClass('Row19'))
+Rule Violations :0
+
+Processing Rule : Room Row20 (Bounding Region = (211.607mm, 96.672mm, 259.232mm, 99.212mm) (InComponentClass('Row20'))
+Rule Violations :0
+
+Processing Rule : Room Row17 (Bounding Region = (211.607mm, 89.052mm, 259.232mm, 91.592mm) (InComponentClass('Row17'))
+Rule Violations :0
+
+Processing Rule : Room Row18 (Bounding Region = (211.607mm, 91.592mm, 259.232mm, 94.132mm) (InComponentClass('Row18'))
+Rule Violations :0
+
+Processing Rule : Room Row12 (Bounding Region = (211.607mm, 76.352mm, 259.232mm, 78.892mm) (InComponentClass('Row12'))
+Rule Violations :0
+
+Processing Rule : Room Row46 (Bounding Region = (162.712mm, 104.292mm, 210.337mm, 106.832mm) (InComponentClass('Row46'))
+Rule Violations :0
+
+Processing Rule : Room Row45 (Bounding Region = (162.712mm, 101.752mm, 210.337mm, 104.292mm) (InComponentClass('Row45'))
+Rule Violations :0
+
+Processing Rule : Room Row47 (Bounding Region = (162.712mm, 106.832mm, 210.337mm, 109.372mm) (InComponentClass('Row47'))
+Rule Violations :0
+
+Processing Rule : Room Row48 (Bounding Region = (162.712mm, 109.372mm, 210.337mm, 111.912mm) (InComponentClass('Row48'))
+Rule Violations :0
+
+Processing Rule : Room Row10 (Bounding Region = (211.607mm, 71.272mm, 259.232mm, 73.812mm) (InComponentClass('Row10'))
+Rule Violations :0
+
+Processing Rule : Room Row11 (Bounding Region = (211.607mm, 73.812mm, 259.232mm, 76.352mm) (InComponentClass('Row11'))
+Rule Violations :0
+
+Processing Rule : Room Row8 (Bounding Region = (211.607mm, 66.192mm, 259.232mm, 68.732mm) (InComponentClass('Row8'))
+Rule Violations :0
+
+Processing Rule : Room Row9 (Bounding Region = (211.607mm, 68.732mm, 259.232mm, 71.272mm) (InComponentClass('Row9'))
+Rule Violations :0
+
+Processing Rule : Room Row21 (Bounding Region = (211.607mm, 99.212mm, 259.232mm, 101.752mm) (InComponentClass('Row21'))
+Rule Violations :0
+
+Processing Rule : Room Row33 (Bounding Region = (162.712mm, 71.272mm, 210.337mm, 73.812mm) (InComponentClass('Row33'))
+Rule Violations :0
+
+Processing Rule : Room Row32 (Bounding Region = (162.712mm, 68.732mm, 210.337mm, 71.272mm) (InComponentClass('Row32'))
+Rule Violations :0
+
+Processing Rule : Room Row31 (Bounding Region = (162.712mm, 66.192mm, 210.337mm, 68.732mm) (InComponentClass('Row31'))
+Rule Violations :0
+
+Processing Rule : Room Row34 (Bounding Region = (162.712mm, 73.812mm, 210.337mm, 76.352mm) (InComponentClass('Row34'))
+Rule Violations :0
+
+Processing Rule : Room Row37 (Bounding Region = (162.712mm, 81.432mm, 210.337mm, 83.972mm) (InComponentClass('Row37'))
+Rule Violations :0
+
+Processing Rule : Room Row36 (Bounding Region = (162.712mm, 78.892mm, 210.337mm, 81.432mm) (InComponentClass('Row36'))
+Rule Violations :0
+
+Processing Rule : Room Row35 (Bounding Region = (162.712mm, 76.352mm, 210.337mm, 78.892mm) (InComponentClass('Row35'))
+Rule Violations :0
+
+Processing Rule : Room Row28 (Bounding Region = (162.712mm, 58.572mm, 210.337mm, 61.112mm) (InComponentClass('Row28'))
+Rule Violations :0
+
+Processing Rule : Room Row5 (Bounding Region = (211.607mm, 58.572mm, 259.232mm, 61.112mm) (InComponentClass('Row5'))
+Rule Violations :0
+
+Processing Rule : Room Row4 (Bounding Region = (211.607mm, 56.032mm, 259.232mm, 58.572mm) (InComponentClass('Row4'))
+Rule Violations :0
+
+Processing Rule : Room Row3 (Bounding Region = (211.607mm, 53.492mm, 259.232mm, 56.032mm) (InComponentClass('Row3'))
+Rule Violations :0
+
+Processing Rule : Room Row6 (Bounding Region = (211.607mm, 61.112mm, 259.232mm, 63.652mm) (InComponentClass('Row6'))
+Rule Violations :0
+
+Processing Rule : Room Row27 (Bounding Region = (162.712mm, 56.032mm, 210.337mm, 58.572mm) (InComponentClass('Row27'))
+Rule Violations :0
+
+Processing Rule : Room Row26 (Bounding Region = (162.716mm, 53.514mm, 210.341mm, 56.054mm) (InComponentClass('Row26'))
+Rule Violations :0
+
+Processing Rule : Room Row7 (Bounding Region = (211.607mm, 63.652mm, 259.232mm, 66.192mm) (InComponentClass('Row7'))
+Rule Violations :0
+
+Processing Rule : Room Row25 (Bounding Region = (211.607mm, 109.372mm, 259.232mm, 111.912mm) (InComponentClass('Row25'))
+Rule Violations :0
+
+Processing Rule : Room Row30 (Bounding Region = (162.712mm, 63.652mm, 210.337mm, 66.192mm) (InComponentClass('Row30'))
+Rule Violations :0
+
+Processing Rule : Room Row29 (Bounding Region = (162.712mm, 61.112mm, 210.337mm, 63.652mm) (InComponentClass('Row29'))
+Rule Violations :0
+
+Processing Rule : Room Row2 (Bounding Region = (162.712mm, 50.952mm, 210.337mm, 53.492mm) (InComponentClass('Row2'))
+Rule Violations :0
+
+Processing Rule : Room Row22 (Bounding Region = (211.607mm, 101.752mm, 259.232mm, 104.292mm) (InComponentClass('Row22'))
+Rule Violations :0
+
+Processing Rule : Room Row23 (Bounding Region = (211.607mm, 104.292mm, 259.232mm, 106.832mm) (InComponentClass('Row23'))
+Rule Violations :0
+
+Processing Rule : Room Row24 (Bounding Region = (211.607mm, 106.832mm, 259.232mm, 109.372mm) (InComponentClass('Row24'))
+Rule Violations :0
+
+Processing Rule : Room Row1 (Bounding Region = (211.607mm, 50.952mm, 259.232mm, 53.492mm) (InComponentClass('Row1'))
+Rule Violations :0
+
+Processing Rule : Room Row40 (Bounding Region = (162.712mm, 89.052mm, 210.337mm, 91.592mm) (InComponentClass('Row40'))
+Rule Violations :0
+
+Processing Rule : Room Row39 (Bounding Region = (162.712mm, 86.512mm, 210.337mm, 89.052mm) (InComponentClass('Row39'))
+Rule Violations :0
+
+Processing Rule : Room Row38 (Bounding Region = (162.712mm, 83.972mm, 210.337mm, 86.512mm) (InComponentClass('Row38'))
+Rule Violations :0
+
+Processing Rule : Room Row41 (Bounding Region = (162.712mm, 91.592mm, 210.337mm, 94.132mm) (InComponentClass('Row41'))
+Rule Violations :0
+
+Processing Rule : Room Row44 (Bounding Region = (162.712mm, 99.212mm, 210.337mm, 101.752mm) (InComponentClass('Row44'))
+Rule Violations :0
+
+Processing Rule : Room Row43 (Bounding Region = (162.712mm, 96.672mm, 210.337mm, 99.212mm) (InComponentClass('Row43'))
+Rule Violations :0
+
+Processing Rule : Room Row42 (Bounding Region = (162.712mm, 94.132mm, 210.337mm, 96.672mm) (InComponentClass('Row42'))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.254mm, Vertical Gap = 0.254mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('J2')),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 2
+Waived Violations : 0
+Time Elapsed        : 00:00:02
