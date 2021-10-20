@@ -1,14 +1,13 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 2:12:52 PM On 10/20/2021
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [BlinkBoard_micro.PcbDoc]
+   Generated File[BlinkBoard_micro-RoundHoles.TXT]
+   Generated File[BlinkBoard_micro-SlotHoles.TXT]
+   Generated File[BlinkBoard_micro.LDP]
+   Generated File[BlinkBoard_micro.DRR]
 
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [BlinkBoard_micro.PrjPcb]
-   Generated File[Bill of Materials-BlinkBoard_micro.xlsx]
 
-
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 2:12:56 PM On 10/20/2021
+Finished Output Generation At 2:22:50 PM On 10/20/2021

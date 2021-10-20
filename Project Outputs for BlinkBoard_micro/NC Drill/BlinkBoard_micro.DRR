@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BlinkBoard_micro.PcbDoc   10/20/2021  2:22:50 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BlinkBoard_micro-RoundHoles.TXT
+ASCII SlotHoles File : BlinkBoard_micro-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             90        PTH        24.88inch (631.93mm)
+T2      20mil (0.5mm)                                             Slot              2         PTH        4.37inch (111.02mm)
+T3      28mil (0.7mm)           +1693mil (43mm)                   Slot              4         PTH        1.30inch (33.01mm)
+T4      28mil (0.71mm)                                            Round             3         PTH        0.10inch (2.54mm)
+T5      41mil (1.04mm)                                            Round             16        PTH        2.02inch (51.26mm)
+T6      47mil (1.2mm)                                             Round             26        PTH        4.63inch (117.48mm)
+T7      28mil (0.7mm)                                             Slot              2         NPTH       0.46inch (11.74mm)
+T8      79mil (2mm)                                               Round             4         NPTH       5.41inch (137.45mm)
+T9      126mil (3.2mm)                                            Round             4         NPTH       9.45inch (240.04mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              151
+
+Total Processing Time (hh:mm:ss) : 00:00:00
